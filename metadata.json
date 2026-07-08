@@ -1,0 +1,6 @@
+{
+  "name": "Dream Records Music Distribution",
+  "description": "A premium enterprise-grade music distribution platform with dynamic artist and admin dashboards, royalty accounting, support tickets, SEO-optimized blog, and interactive Gemini-powered AI metadata and cover checkers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
